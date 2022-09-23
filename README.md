@@ -1,15 +1,30 @@
 
-# 🚀 Привет, меня зовут Владимир
+# ![Hello](https://media.giphy.com/media/a74pSGN7wvT7a/giphy.gif)[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&width=435&lines=%2Cmy+name+is+Vladimir!)](https://git.io/typing-svg)
 
-## Немного обо мне:
+## Few words about myself:
 
-Я начинающий веб-разработчик.
+I am a junior web developer.
 
-В этой жизни я люблю свою семью, животных и веб-разработку.
+Technology stack I wich use
 
-![](./images/7SvA.gif)
+<div>
+  <img src="" alt="" />
+  <img src="" alt="" />
+  <img src="" alt="" />
+  <img src="" alt="" />
+  <img src="" alt="" />
+  <img src="" alt="" />
+  <img src="" alt="" />
+</div>
 
-Мне очень интересны различные благотворительные проекты, нацеленные на помощь любого рода тем, кто в ней действительно нуждается. 
+
+![HTML]()
+![CSS]()
+![Java Script]()
+![Webpack]()
+![React]()
+![mongoDB]()
+![Express.js]()
 
 ## Стек технологий, который я использую💻:
 
