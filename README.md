@@ -8,13 +8,13 @@ I am a junior web developer.
 Technology stack I wich use
 
 <div>
-  <img src="" alt="" />
-  <img src="" alt="" />
-  <img src="" alt="" />
-  <img src="" alt="" />
-  <img src="" alt="" />
-  <img src="" alt="" />
-  <img src="" alt="" />
+  <img src="./images/html5.svg" alt="HTML" />
+  <img src="./images/css3.svg" alt="CSS" />
+  <img src="./images/javascript.svg" alt="JS" />
+  <img src="./images/react.svg" alt="React" />
+  <img src="./images/webpack.svg" alt="Webpack" />
+  <img src="./images/mongodb.svg" alt="MongoDB" />
+  <img src="./images/express.svg" alt="Express.js" />
 </div>
 
 
