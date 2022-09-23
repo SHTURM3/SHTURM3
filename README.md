@@ -21,6 +21,18 @@
     <img src="./images/express.svg" alt="Express.js" width="60" />
 </div>
 
+## My latest projects
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&width=435&lines=Movies)](https://git.io/typing-svg)
+
+[![Movies](./images/movies.svg)](https://github.com/SHTURM3/movies-explorer-frontend)
+
+---
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&width=435&lines=Mesto)](https://git.io/typing-svg)
+
+[![Mesto](./images/Mesto.svg)](https://github.com/SHTURM3/react-mesto-api-full)
+
 ## GitHub Profile Trophy
 [![trophy](https://github-profile-trophy.vercel.app/?username=SHTURM3&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy)
 
